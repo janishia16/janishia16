@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Backend Developer
 -----------------
 
-Presently was a Intern a Cognizant. Graduated in B.E in Computer Science and Engineering in 2023.
+Worked as a Intern in Cognizant. Graduated in B.E in Computer Science and Engineering in 2023.
 
 * 🌍  I'm based in Mangalore
 * ✉️  You can contact me at [jennoronha28@gmail.com](mailto:jennoronha28@gmail.com)
