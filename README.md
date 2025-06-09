@@ -27,8 +27,11 @@ Worked as a Intern in Cognizant. Graduated in B.E in Computer Science and Engine
 
 <b>Top Repositories</b>
 
-<div width="100%" align="center"><a href="https://github.com/janishia16/Computer_Graphics_Project" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=janishia16&repo=Computer_Graphics_Project&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+<div width="100%" align="center"><a href="https://github.com/janishia16/Computer_Graphics_Project" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=janishia16&repo=Computer_Graphics_Project&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
+
+
+<div width="100%" align="center"><a href="https://github.com/janishia16/Customization-in-Hair-Care" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=janishia16&repo=Customization-in-Hair-Care&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
+<br /><br /><br /><br />
 
 <br /><br /><br />
 
-<div width="100%" align="center"><a href="https://github.com/janishia16/Customization-in-Hair-Care" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=janishia16&repo=Customization-in-Hair-Care&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
