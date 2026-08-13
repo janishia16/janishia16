@@ -45,15 +45,6 @@ Software Engineer with 2 years of experience building applications and REST APIs
 
 <p align="left"> <a href="https://www.github.com/janishia16" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/janishia-norohna-598771211/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
 
-### Badges
-
-<b>Top Repositories</b>
-
-- 📦 [**Buy_Or_Wait**](https://github.com/janishia16/Buy_Or_Wait) — Book price tracking pipeline with Databricks dashboard (Python, Playwright, Databricks)
-- 📦 [**Computer_Graphics_Project**](https://github.com/janishia16/Computer_Graphics_Project)
-- 📦 [**Customization-in-Hair-Care**](https://github.com/janishia16/Customization-in-Hair-Care)
-- 📦 [**AutoBooking**](https://github.com/janishia16/AutoBooking)
-
 ### 📈 My GitHub Stats
 
 <p align="left">
